@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6e0104/X/v1
+canonical_location: https://kanripo.org/bkk/KR6e0104/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 註華嚴法界觀科文
+  identifiers:
+    krp: KR6e0104
+    cbeta: X58n1008
+    cbeta_old_id: X58n1008
+    authorityid: CA0001362
+    json_key: X1008
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X58/X58n1008.xml
+    old_id: X58n1008
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0104_000-X.yaml, hash: 'sha256:802f36c4869f41f849ed02900e9192f7bb83a3fd20d485cfac6045a8476141b5'}
+  - {seq: 1, filename: KR6e0104_001-X.yaml, hash: 'sha256:7d982646fb48c4b1b5d1fb5efb56d6a0953c0d4d0834ce82728a399828c6d98c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6e0104_000-X.markers.yaml, hash: 'sha256:ed43c66f5ad1e0ace2f8f4542cad4794d949a42b55d6640a098ae03bdf9d1de4'}
+  - {seq: 1, role: markers, filename: assets/KR6e0104_001-X.markers.yaml, hash: 'sha256:685394b7c3eb675e6ffc5bc7b8f88e3d03381e95eb6dfee10aa5e6392fd19e27'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6e0104_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 2216
+  label: 注華嚴法界觀科
+  type: juan
+  level: 1
+hash: sha256:86a8c09ab743493657011c102d5ebfd344f679d9940d9c5f14574f0c6cecb56c

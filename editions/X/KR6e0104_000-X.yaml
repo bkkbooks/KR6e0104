@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0104/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 註華嚴法界觀科文
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X58/X58n1008.xml
+    old_id: X58n1008
+hash: sha256:802f36c4869f41f849ed02900e9192f7bb83a3fd20d485cfac6045a8476141b5

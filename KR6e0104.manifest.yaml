@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6e0104/v1
+canonical_location: https://kanripo.org/bkk/KR6e0104/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 註華嚴法界觀科文
+  identifiers:
+    alt_id:
+    - X58n1008
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X58/X58n1008.xml
+    old_id: X58n1008
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0104_000.yaml, hash: 'sha256:802f36c4869f41f849ed02900e9192f7bb83a3fd20d485cfac6045a8476141b5'}
+  - {seq: 1, filename: KR6e0104_001.yaml, hash: 'sha256:03d6f29a36ff2135ffc05c0668df0929ea7851da66e3895ab630dba1ee037d2c'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6e0104_001.markers.yaml, hash: 'sha256:9987daf9fc221a7f45169d1ebaa944d9ca20495884837a1e7159b0c8613b2b6b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6e0104_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 2216
+  label: 注華嚴法界觀科
+  type: juan
+  level: 1
+hash: sha256:e602c18c256a4b3ec27344908a4e40f8618c50f3fb8a56d906b53800f1cd294c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
