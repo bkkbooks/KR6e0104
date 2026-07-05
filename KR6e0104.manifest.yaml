@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6e0104_000.yaml, hash: 'sha256:802f36c4869f41f849ed02900e9192f7bb83a3fd20d485cfac6045a8476141b5'}
-  - {seq: 1, filename: KR6e0104_001.yaml, hash: 'sha256:03d6f29a36ff2135ffc05c0668df0929ea7851da66e3895ab630dba1ee037d2c'}
+  - {seq: 1, filename: KR6e0104_001.yaml, hash: 'sha256:7d982646fb48c4b1b5d1fb5efb56d6a0953c0d4d0834ce82728a399828c6d98c'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6e0104_001.markers.yaml, hash: 'sha256:9987daf9fc221a7f45169d1ebaa944d9ca20495884837a1e7159b0c8613b2b6b'}
+  - {seq: 0, role: markers, filename: assets/KR6e0104_000.markers.yaml, hash: 'sha256:146f647a10f5c67fafe99fea231ffddb127bc06a6aa0b87430a083e33ab0dcba'}
+  - {seq: 1, role: markers, filename: assets/KR6e0104_001.markers.yaml, hash: 'sha256:9573b2a84f26794b4299c22992f6d937a540cf312c7567d88eb452272ddada6b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 注華嚴法界觀科
   type: juan
   level: 1
-hash: sha256:e602c18c256a4b3ec27344908a4e40f8618c50f3fb8a56d906b53800f1cd294c
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:1adc11822ea0dd37d66553f112dae464f19fbedbbdfbe9d362d38063e0b0d9d2
