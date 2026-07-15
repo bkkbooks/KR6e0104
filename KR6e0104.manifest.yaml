@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6e0104/v1
 canonical_location: https://kanripo.org/bkk/KR6e0104/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 註華嚴法界觀科文
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6e0104_000.yaml, hash: 'sha256:802f36c4869f41f849ed02900e9192f7bb83a3fd20d485cfac6045a8476141b5'}
-  - {seq: 1, filename: KR6e0104_001.yaml, hash: 'sha256:7d982646fb48c4b1b5d1fb5efb56d6a0953c0d4d0834ce82728a399828c6d98c'}
+  - {seq: 1, filename: KR6e0104_001.yaml, hash: 'sha256:7f690d5eab640533292729d874b82373cf02eff9e55453bb5303d727ff2aebd3'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6e0104_000.markers.yaml, hash: 'sha256:146f647a10f5c67fafe99fea231ffddb127bc06a6aa0b87430a083e33ab0dcba'}
-  - {seq: 1, role: markers, filename: assets/KR6e0104_001.markers.yaml, hash: 'sha256:9573b2a84f26794b4299c22992f6d937a540cf312c7567d88eb452272ddada6b'}
+  - {seq: 1, role: markers, filename: assets/KR6e0104_001.markers.yaml, hash: 'sha256:6f40ebc303041da06c45f7e71cd0824a3895e569e6f27e9b1b8c1833dd65a418'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 注華嚴法界觀科
   type: juan
   level: 1
-hash: sha256:1adc11822ea0dd37d66553f112dae464f19fbedbbdfbe9d362d38063e0b0d9d2
+hash: sha256:7aca97b692ecaebd5cb32e1e473cc68ef3e53dc85f9a2b2806250951ac825b08
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
